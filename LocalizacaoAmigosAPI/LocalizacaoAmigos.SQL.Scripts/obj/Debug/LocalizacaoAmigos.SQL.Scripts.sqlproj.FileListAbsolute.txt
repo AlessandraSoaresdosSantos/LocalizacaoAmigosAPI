@@ -1,0 +1,9 @@
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.SQL.Scripts\bin\Debug\LocalizacaoAmigos.SQL.Scripts.dacpac
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.SQL.Scripts\bin\Debug\LocalizacaoAmigos.SQL.Scripts.dll
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.SQL.Scripts\bin\Debug\LocalizacaoAmigos.SQL.Scripts.pdb
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.SQL.Scripts\obj\Debug\LocalizacaoAmigos.SQL.Scripts.dll
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.SQL.Scripts\obj\Debug\LocalizacaoAmigos.SQL.Scripts.pdb
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.SQL.Scripts\obj\Debug\Model.xml
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.SQL.Scripts\obj\Debug\refactor.xml
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.SQL.Scripts\obj\Debug\postdeploy.sql
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.SQL.Scripts\obj\Debug\predeploy.sql

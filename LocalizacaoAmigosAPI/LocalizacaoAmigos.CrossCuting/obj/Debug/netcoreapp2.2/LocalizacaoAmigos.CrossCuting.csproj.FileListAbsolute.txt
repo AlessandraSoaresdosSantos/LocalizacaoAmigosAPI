@@ -1,0 +1,14 @@
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.CrossCuting\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.CrossCuting.deps.json
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.CrossCuting\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.CrossCuting.dll
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.CrossCuting\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.CrossCuting.csproj.CoreCompileInputs.cache
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.CrossCuting\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.CrossCuting.AssemblyInfoInputs.cache
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.CrossCuting\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.CrossCuting.AssemblyInfo.cs
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.CrossCuting\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.CrossCuting.pdb
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.CrossCuting\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.Data.dll
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.CrossCuting\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.Domain.dll
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.CrossCuting\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.Domain.pdb
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.CrossCuting\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.Data.pdb
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.CrossCuting\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.CrossCuting.csprojAssemblyReference.cache
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.CrossCuting\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.CrossCuting.csproj.CopyComplete
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.CrossCuting\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.CrossCuting.dll
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigos.CrossCuting\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.CrossCuting.pdb

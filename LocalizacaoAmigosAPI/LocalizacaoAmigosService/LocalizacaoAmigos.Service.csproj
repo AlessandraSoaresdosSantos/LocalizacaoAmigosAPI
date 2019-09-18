@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LocalizacaoAmigos.CrossCuting\LocalizacaoAmigos.CrossCuting.csproj" />
+    <ProjectReference Include="..\LocalizacaoAmigosDomain\LocalizacaoAmigos.Domain.csproj" />
+    <ProjectReference Include="..\LocalizacaoAmigosRepository\LocalizacaoAmigos.Data.csproj" />
+  </ItemGroup>
+
+</Project>

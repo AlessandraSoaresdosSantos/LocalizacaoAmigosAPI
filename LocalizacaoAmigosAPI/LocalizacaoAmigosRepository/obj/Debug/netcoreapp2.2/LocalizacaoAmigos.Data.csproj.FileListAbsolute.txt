@@ -1,0 +1,14 @@
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.Data.deps.json
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.Data.runtimeconfig.json
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.Data.runtimeconfig.dev.json
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.Data.dll
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.Data.pdb
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.Domain.dll
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.Domain.pdb
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.Data.csprojAssemblyReference.cache
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.Data.AssemblyInfoInputs.cache
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.Data.AssemblyInfo.cs
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.Data.csproj.CopyComplete
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.Data.dll
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.Data.pdb

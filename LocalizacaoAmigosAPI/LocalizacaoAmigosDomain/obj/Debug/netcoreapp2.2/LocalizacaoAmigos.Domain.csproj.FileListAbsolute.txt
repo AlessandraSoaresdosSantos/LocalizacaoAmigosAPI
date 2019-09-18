@@ -1,0 +1,8 @@
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosDomain\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.Domain.deps.json
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosDomain\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.Domain.dll
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosDomain\bin\Debug\netcoreapp2.2\LocalizacaoAmigos.Domain.pdb
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosDomain\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosDomain\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.Domain.AssemblyInfoInputs.cache
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosDomain\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.Domain.AssemblyInfo.cs
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosDomain\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.Domain.dll
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosDomain\obj\Debug\netcoreapp2.2\LocalizacaoAmigos.Domain.pdb

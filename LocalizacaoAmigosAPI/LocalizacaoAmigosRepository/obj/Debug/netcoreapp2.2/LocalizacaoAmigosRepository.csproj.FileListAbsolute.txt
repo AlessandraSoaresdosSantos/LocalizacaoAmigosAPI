@@ -1,0 +1,11 @@
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\bin\Debug\netcoreapp2.2\LocalizacaoAmigosRepository.deps.json
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\bin\Debug\netcoreapp2.2\LocalizacaoAmigosRepository.runtimeconfig.json
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\bin\Debug\netcoreapp2.2\LocalizacaoAmigosRepository.runtimeconfig.dev.json
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\bin\Debug\netcoreapp2.2\LocalizacaoAmigosRepository.dll
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\obj\Debug\netcoreapp2.2\LocalizacaoAmigosRepository.csproj.CoreCompileInputs.cache
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\obj\Debug\netcoreapp2.2\LocalizacaoAmigosRepository.AssemblyInfoInputs.cache
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\obj\Debug\netcoreapp2.2\LocalizacaoAmigosRepository.AssemblyInfo.cs
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\obj\Debug\netcoreapp2.2\LocalizacaoAmigosRepository.csprojAssemblyReference.cache
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\bin\Debug\netcoreapp2.2\LocalizacaoAmigosRepository.pdb
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\obj\Debug\netcoreapp2.2\LocalizacaoAmigosRepository.dll
+C:\Users\Alessandra\source\repos\LocalizacaoAmigosAPI\LocalizacaoAmigosAPI\LocalizacaoAmigosRepository\obj\Debug\netcoreapp2.2\LocalizacaoAmigosRepository.pdb
